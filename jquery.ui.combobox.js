@@ -14,7 +14,7 @@
 
      $(this.element).live('bbPop', function(e, data){
          console.log('bbPop triggered');
-         $(input).val(data);
+         $(input).text(data);
      });
 
       var input = this.input = $( "<input>" )
