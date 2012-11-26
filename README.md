@@ -1,4 +1,6 @@
-jffiddlefiles
+jsfiddle files
 =============
 
-js fiddle files
+These are files used in some of my jsfiddles.
+
+
